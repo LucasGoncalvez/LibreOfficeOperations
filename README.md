@@ -1,7 +1,7 @@
 # LibreOfficeOperations
 Library for operations with documents with LibreOffice. Credits: https://github.com/DigDes/LibreOfficeLibrary/tree/master
 
-Features
+Features\n
 Convert document to PDF
 Compare two documents
 Getting started
