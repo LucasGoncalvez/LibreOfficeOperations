@@ -1,15 +1,16 @@
 # LibreOfficeOperations
 Library for operations with documents with LibreOffice. Credits: https://github.com/DigDes/LibreOfficeLibrary/tree/master
 
-Features
+## Features
 Convert document to PDF
+
 Compare two documents
-Getting started
-Prerequisites
+
+## Prerequisites
 On your machine must be installed LibreOffice
 
-Installing
-For comparison of two documents you must install macro from Install directory
+## Installing
+**For comparison of two documents you must install macro from Install directory**
 
 Open LibreOffice
 
@@ -19,5 +20,6 @@ In opened window go to tab Libraries and click to button Import
 
 Then choose the following file from this repo
 
-Install/LibreOfficeMacro/script.xlb
+> Install/LibreOfficeMacro/script.xlb
+
 Congrats!
